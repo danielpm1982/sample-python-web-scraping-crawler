@@ -1,0 +1,14 @@
+name: /home/daniel/anaconda-workspace/sample-python-web-scraping-crawler/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python
+  - time
+  - beautifulsoup4
+  - jupyterlab
+  - pandas
+  - requests
+  - lxml
+prefix: /home/daniel/anaconda-workspace/sample-python-web-scraping-crawler/env
